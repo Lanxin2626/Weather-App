@@ -3,7 +3,7 @@ import DayOfWeek from './components/DayOfWeek/DayOfWeek'
 
 const Forecast = () => {
   return (
-    <div className='flex flex-initial items-center p-4 space-x-6'>
+    <div className='flex flex-initial items-center p-2 space-x-6'>
       <DayOfWeek/>
       <DayOfWeek/>
       <DayOfWeek/>
